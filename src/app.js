@@ -23,24 +23,24 @@ class App extends Component {
   }
 
   render() {
-    // if (this.state.load) {
-    //   return (
-    //     <div
-    //       className="container text-center"
-    //       style={{
-    //         paddingTop: '30%'
-    //       }}
-    //     >
-    //       <Loader
-    //         type="Watch"
-    //         color="#00bfff"
-    //         height="100px"
-    //         width="100px"
-    //       />
-    //     </div>
-    //   );
-    // }
-    // else {
+    if (this.state.load) {
+      return (
+        <div
+          className="container text-center"
+          style={{
+            paddingTop: '30%'
+          }}
+        >
+          <Loader
+            type="Watch"
+            color="#00bfff"
+            height="100px"
+            width="100px"
+          />
+        </div>
+      );
+    }
+    else {
       return (
         <div className="container bg-light pd-6">
           <Info />
@@ -52,7 +52,7 @@ class App extends Component {
           <Skills />
         </div>
       );
-    // }
+    }
   }
 }
 
