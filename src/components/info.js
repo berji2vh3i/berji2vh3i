@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 
 import api from '../../src/utils/apis';
 
-import Avatar from '../../src/utils/avatar.jpg';
-
 class Info extends Component {
     constructor(props) {
         super(props);
@@ -18,7 +16,7 @@ class Info extends Component {
                 <div className="col-xs-12 col-sm-6">
                     <img
                         className="rounded-circle avatar"
-                        src={Avatar}
+                        src="avatar.jpg"
                         alt="avatar"
                         width="120px"
                         height="120px"

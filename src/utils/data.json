@@ -66,6 +66,13 @@
     ],
     "educations": [
         {
+            "school": "Self Study",
+            "address": "Every where",
+            "time": "Precent",
+            "status": 1,
+            "description": "Well"
+        },
+        {
             "school": "THPT Nguyen Trai",
             "address": "Ben Tre",
             "time": "08/2014 - 02/2016",

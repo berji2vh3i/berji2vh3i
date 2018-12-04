@@ -19,7 +19,7 @@ class App extends Component {
   componentDidMount() {
     setTimeout(() => {
       this.setState({ load: false });
-    }, 3000);
+    }, 2000);
   }
 
   render() {
