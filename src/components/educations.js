@@ -9,7 +9,7 @@ class Educations extends Component {
             educations: api.getEducations()
         }
     }
-    
+
     render() {
         return (
             <div>
@@ -35,12 +35,11 @@ class Educations extends Component {
                                 <h5>
                                     {
                                         education.status === 0 ? (
-                                            <span className="badge badge-danger">{education.description}</span>
+                                            <span className="badge badge-danger">Bad</span>
                                         ) : (
-                                            <span className="badge badge-primary">{education.description}</span>
-                                        )
+                                                <span className="badge badge-primary">Well</span>
+                                            )
                                     }
-                                    
                                 </h5>
                             </div>
                         </div>

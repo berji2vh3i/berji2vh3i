@@ -9,7 +9,7 @@ class Info extends Component {
             info: api.getInfo()
         }
     }
-    
+
     render() {
         return (
             <div className="row">
@@ -27,6 +27,15 @@ class Info extends Component {
                     <h3>
                         <span className="badge badge-warning">{this.state.info.position}</span>
                     </h3>
+                    <h5>
+                        {
+                            this.state.info.status === 0 ? (
+                                <span className="badge badge-danger">Looking for work</span>
+                            ) : (
+                                    <span className="badge badge-primary">Working</span>
+                                )
+                        }
+                    </h5>
                 </div>
                 <div className="col-xs-12 col-sm-6">
                     <li><i className="fas fa-birthday-cake"></i> {this.state.info.birthday}</li>

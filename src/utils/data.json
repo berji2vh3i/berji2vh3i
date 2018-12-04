@@ -7,7 +7,8 @@
         "email": "berji2vh3i@gmail.com",
         "facebook": "https://fb.com/berji2vh3i",
         "github": "https://github.com/berji2vh3i",
-        "address": "606/61 Ba Thang Hai, TP.HCM"
+        "address": "606/61 Ba Thang Hai, TP.HCM",
+        "status": 0
     },
     "experiances": [
         {
@@ -69,15 +70,13 @@
             "school": "Self Study",
             "address": "Every where",
             "time": "Precent",
-            "status": 1,
-            "description": "Well"
+            "status": 1
         },
         {
             "school": "THPT Nguyen Trai",
             "address": "Ben Tre",
             "time": "08/2014 - 02/2016",
-            "status": 0,
-            "description": "Not graduated"
+            "status": 0
         }
     ]
 }
