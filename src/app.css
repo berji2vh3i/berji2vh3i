@@ -1,0 +1,81 @@
+body {
+    max-width: 768px;
+    background-color: #272822;
+    margin: 0px auto;
+}
+
+hr {
+    border: 1px solid #28bcfd;
+}
+
+li {
+    list-style: none;
+}
+
+i {
+    width: 30px;
+    height: 30px;
+    background: linear-gradient(45deg, #1d78ff, #28bcfd);
+    color: #fff;
+    text-align: center;
+    padding-top: 6px;
+    border-radius: 15px;
+}
+
+.badge-primary {
+    background: linear-gradient(45deg, #1d78ff, #28bcfd);
+}
+
+.badge-warning {
+    background: linear-gradient(45deg, #fd7e14, #ffc107);
+    color: #fff;
+}
+
+.badge-danger {
+    background: linear-gradient(45deg, #dc3545, #e83e8c);
+}
+
+.avatar {
+    padding: 6px;
+    background: linear-gradient(45deg, #1d78ff, #28bcfd);
+}
+
+.pd-6 {
+    padding: 6px;
+}
+
+.pt-6 {
+    padding-top: 6px;
+}
+
+.pb-6 {
+    padding-bottom: 6px;
+}
+
+.pl-6 {
+    padding-left: 6px;
+}
+
+.pr-6 {
+    padding-right: 6px;
+}
+
+.mg-6 {
+    margin: 6px;
+}
+
+.mt-6 {
+    margin-top: 6px;
+}
+
+.mb-6 {
+    margin-bottom: 6px;
+}
+
+.ml-6 {
+    margin-left: 6px;
+}
+
+.mr-6 {
+    margin-right: 6px;
+}

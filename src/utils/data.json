@@ -1,0 +1,76 @@
+{
+    "info": {
+        "name": "Mai Hoang Quoc Bao",
+        "position": "Fresher Front-end",
+        "birthday": "11/12/1997",
+        "phonenumber": "0397379697",
+        "email": "berji2vh3i@gmail.com",
+        "facebook": "https://fb.com/berji2vh3i",
+        "github": "https://github.com/berji2vh3i",
+        "address": "606/61 Ba Thang Hai, TP.HCM"
+    },
+    "experiances": [
+        {
+            "company": "MMO Comunity",
+            "position": "Freeland Coder",
+            "address": "TP.HCM",
+            "time": "06/2017 - Recent",
+            "description": [
+                "Build script Auto dice",
+                "Project https://trustdice.com (Full)",
+                "Project https://dretoken.com (Web + Contract)",
+                "..."
+            ]
+        },
+        {
+            "company": "Phon Vinh Mobile",
+            "position": "IT Helpdesk",
+            "address": "TP.HCM",
+            "time": "03/2017 - 11/2018",
+            "description": [
+                "Backup restore data for customer",
+                "Upgrade, repair, bypass, unlock (Apple, Samsung)",
+                "Disassembly, assembly, replacement parts (Apple, Samsung)",
+                "..."
+            ]
+        },
+        {
+            "company": "Hoai Phu Hotel",
+            "position": "Reception",
+            "address": "Ben Tre",
+            "time": "02/2016 - 02/2017",
+            "description": [
+                "Receive guest rooms directly and over the phone",
+                "Report finance on daily expenses",
+                "..."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML & CSS",
+            "precent": "90"
+        },
+        {
+            "name": "JavaScript",
+            "precent": "60"
+        },
+        {
+            "name": "PHP & MySQL",
+            "precent": "50"
+        },
+        {
+            "name": "ReactJS",
+            "precent": "40"
+        }      
+    ],
+    "educations": [
+        {
+            "school": "THPT Nguyen Trai",
+            "address": "Ben Tre",
+            "time": "08/2014 - 02/2016",
+            "status": 0,
+            "description": "Not graduated"
+        }
+    ]
+}
