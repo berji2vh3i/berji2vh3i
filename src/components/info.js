@@ -41,8 +41,8 @@ class Info extends Component {
                     <li><i className="fas fa-birthday-cake"></i> {this.state.info.birthday}</li>
                     <li><i className="fas fa-mobile"></i> {this.state.info.phonenumber}</li>
                     <li><i className="fas fa-envelope-open"></i> {this.state.info.email}</li>
-                    <li><i className="fab fa-facebook"></i> <a href={this.state.info.facebook} target="_blank">{this.state.info.facebook}</a></li>
-                    <li><i className="fab fa-github"></i> <a href={this.state.info.github} target="_blank">{this.state.info.github}</a></li>
+                    <li><i className="fab fa-facebook"></i> {this.state.info.facebook}</li>
+                    <li><i className="fab fa-github"></i> {this.state.info.github}</li>
                     <li><i className="fas fa-map-marker-alt"></i> {this.state.info.address}</li>
                 </div>
             </div>

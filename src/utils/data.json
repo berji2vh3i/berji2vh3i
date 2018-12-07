@@ -17,9 +17,8 @@
             "address": "TP.HCM",
             "time": "06/2017 - Recent",
             "description": [
-                "Build script Auto dice",
-                "Project https://trustdice.com (Full)",
-                "Project https://dretoken.com (Web + Contract)",
+                "Build script Auto Dice: https://www.youtube.com/results?search_query=dicebot+luckygame",
+                "Project: https://trustdice.com",
                 "..."
             ]
         },
@@ -49,34 +48,28 @@
     ],
     "skills": [
         {
-            "name": "HTML & CSS",
-            "precent": "90"
-        },
-        {
-            "name": "JavaScript",
-            "precent": "60"
+            "name": "HTML, CSS, Bootstrap",
+            "precent": "95"
         },
         {
             "name": "PHP & MySQL",
-            "precent": "50"
+            "precent": "65"
         },
         {
-            "name": "ReactJS",
-            "precent": "40"
+            "name": "JavaScript, jQuery",
+            "precent": "55"
+        },
+        {
+            "name": "React",
+            "precent": "45"
         }      
     ],
     "educations": [
         {
             "school": "Self Study",
             "address": "Every where",
-            "time": "Precent",
+            "time": "02/2016 - Precent",
             "status": 1
-        },
-        {
-            "school": "THPT Nguyen Trai",
-            "address": "Ben Tre",
-            "time": "08/2014 - 02/2016",
-            "status": 0
         }
     ]
 }
